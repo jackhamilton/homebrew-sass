@@ -1,9 +1,9 @@
 class Sass < Formula
   desc "XCode assistant tool written in Rust"
   homepage "https://github.com/jackhamilton/sass-rs/"
-  url "https://github.com/jackhamilton/sass-rs/archive/refs/tags/0.2.4.tar.gz"
-  sha256 "1593b04806a5912e8bd00befd2eb35de51db8ba8c864b9c7d68dc3b9e9405a4e"
-  version "0.2.4"
+  url "https://github.com/jackhamilton/sass-rs/archive/refs/tags/0.2.5.tar.gz"
+  sha256 "46a7b0d39fbbe2c1618aed9487eb5105bd8b26312137e4af03beb15f60697c35"
+  version "0.2.5"
 
   def install
     bin.install "./sass"
