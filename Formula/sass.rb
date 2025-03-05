@@ -6,6 +6,6 @@ class Sass < Formula
   version "0.2.5"
 
   def install
-    bin.install "./sass"
+    bin.install "sass"
   end
 end
